@@ -1,0 +1,4 @@
+com.uits.geoshield.test.app-androidTest-0 D:\GeoShield-main\GeoShield-main\app\build\generated\res\resValues\androidTest\debug
+com.uits.geoshield.test.app-mergeDebugAndroidTestResources-1 D:\GeoShield-main\GeoShield-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.uits.geoshield.test.app-mergeDebugAndroidTestResources-2 D:\GeoShield-main\GeoShield-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.uits.geoshield.test.app-debugAndroidTest-3 D:\GeoShield-main\GeoShield-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

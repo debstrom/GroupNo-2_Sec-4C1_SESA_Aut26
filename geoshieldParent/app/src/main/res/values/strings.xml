@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">geoshieldParent</string>
+    <string name="MAIN_URL"> http://192.168.0.100:3000</string>
+</resources>

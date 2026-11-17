@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10272242870",
+    "project_id": "geoshield132",
+    "storage_bucket": "geoshield132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10272242870:android:8c34c1d473e71c8a47ba17",
+        "android_client_info": {
+          "package_name": "com.example.geoshieldparent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYWjnuwMTpedZFts6cKVSKtPnGbHwV0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

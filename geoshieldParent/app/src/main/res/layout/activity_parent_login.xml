@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gs_bg"
+    android:id="@+id/main"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="GeoShield"
+            android:textColor="@color/gs_text"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Parent Login · অভিভাবক লগইন"
+            android:textColor="@color/gs_hint"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg_chip"
+            android:paddingStart="12dp"
+            android:paddingTop="6dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="6dp"
+            android:text="Stay connected to your child"
+            android:textColor="@color/gs_green"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <!-- Info card -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_input"
+            android:lineSpacingExtra="2dp"
+            android:padding="16dp"
+            android:text="Child er app theke pawa User ID, Email ar 6 digit code dao. Code ta child er Emergency Contact list e paba."
+            android:textColor="@color/gs_hint"
+            android:textSize="13sp" />
+
+        <TextView
+            style="@style/GsLabel"
+            android:text="Child User ID · সন্তানের আইডি" />
+        <EditText
+            android:id="@+id/etChildId"
+            style="@style/GsInput"
+            android:hint="e.g. ayesha01"
+            android:inputType="text" />
+
+        <TextView
+            style="@style/GsLabel"
+            android:text="Child Email · সন্তানের ইমেইল" />
+        <EditText
+            android:id="@+id/etChildEmail"
+            style="@style/GsInput"
+            android:hint="child@example.com"
+            android:inputType="textEmailAddress" />
+
+
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/bg_button_red"
+            android:text="Login · লগইন"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp"
+            android:visibility="gone" />
+    </LinearLayout>
+</ScrollView>

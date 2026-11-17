@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_call_gradient"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingStart="24dp"
+    android:paddingTop="96dp"
+    android:paddingEnd="24dp"
+    android:paddingBottom="32dp">
+
+    <TextView
+        android:id="@+id/tvIncoming"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/incoming_call"
+        android:textColor="#D9CFE0"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvAvatar"
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/bg_call_avatar"
+        android:gravity="center"
+        android:textColor="@color/call_avatar_text"
+        android:textSize="56sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvCaller"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/mobile"
+        android:textColor="#D9CFE0"
+        android:textSize="16sp" />
+
+    <Chronometer
+        android:id="@+id/chrono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="#D9CFE0"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/rowRinging"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/btnDecline"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@drawable/bg_call_decline"
+                android:contentDescription="@string/decline"
+                android:padding="24dp"
+                android:src="@drawable/ic_phone"
+                android:tint="@color/white"
+                xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/decline"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/btnAccept"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@drawable/bg_call_accept"
+                android:contentDescription="@string/accept"
+                android:padding="24dp"
+                android:src="@drawable/ic_phone"
+                android:tint="@color/white"
+                xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/accept"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rowInCall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/btnEnd"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/bg_call_decline"
+            android:contentDescription="@string/end_call"
+            android:padding="24dp"
+            android:rotation="135"
+            android:src="@drawable/ic_phone"
+            android:tint="@color/white"
+            xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/end_call"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvFooter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:text="@string/fake_call_footer"
+        android:textColor="#B8ADBF"
+        android:textSize="13sp" />
+</LinearLayout>

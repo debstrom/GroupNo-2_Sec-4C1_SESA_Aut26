@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sos_dark"
+    android:orientation="vertical"
+    android:paddingStart="10dp"
+    android:paddingTop="32dp"
+    android:paddingEnd="10dp"
+    android:paddingBottom="24dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:letterSpacing="0.12"
+            android:text="@string/sos_active"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="00:00"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/rowLocation"
+        layout="@layout/item_status_row" />
+
+    <include
+        android:id="@+id/rowContacts"
+        layout="@layout/item_status_row" />
+
+    <include
+        android:id="@+id/rowRecording"
+        layout="@layout/item_status_row" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:letterSpacing="0.1"
+        android:text="@string/nearest_help"
+        android:textColor="@color/pink_soft"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvHelp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:nestedScrollingEnabled="false"
+        android:overScrollMode="never" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/btnSafe"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/bg_button_white"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="@string/im_safe"
+        android:textColor="@color/sos_dark"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/btnFalseAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"
+        android:background="?attr/selectableItemBackground"
+        android:minHeight="48dp"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/false_alarm"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+</LinearLayout>

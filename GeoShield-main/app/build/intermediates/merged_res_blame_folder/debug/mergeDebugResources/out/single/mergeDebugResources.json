@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_activity_fake_call.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\activity_fake_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_item_help_place.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\item_help_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_card_clickable.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_card_clickable.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_call_button_teal.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_call_button_teal.xml"
+    },
+    {
+        "merged": "com.uits.geoshield.app-debug-32:/layout_activity_signup.xml.flat",
+        "source": "com.uits.geoshield.app-main-34:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_shield.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_shield.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_button_red.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_button_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_legend_square.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_legend_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_sheet.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_status_rec.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_status_rec.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_dashed.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_dashed.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_call_gradient.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_call_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_record.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_item_status_row.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\item_status_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_avatar.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_handle.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_button_white_on_teal.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_button_white_on_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_live_card.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_live_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_fragment_contacts.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_pending.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_hospital.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_dialog_add_contact.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\dialog_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_button_teal.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_button_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_button_white.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_button_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_status_pending.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_status_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_status_done.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_status_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_call_decline.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_call_decline.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_view_action_card.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\view_action_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_call_accept.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_call_accept.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_chip_teal.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_chip_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_users.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_lang_toggle.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_lang_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_bg_call_avatar.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\bg_call_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_map_pin.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_map_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_dialog_report_incident.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\dialog_report_incident.xml"
+    },
+    {
+        "merged": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-debug-32:\\layout_activity_sos_active.xml.flat",
+        "source": "C:\\Users\\TR RIDOY\\.gradle\\daemon\\8.7\\com.uits.geoshield.app-main-34:\\layout\\activity_sos_active.xml"
+    }
+]

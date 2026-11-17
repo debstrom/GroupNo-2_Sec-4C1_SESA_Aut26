@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_cream">#FAF6F2</color>
+    <color name="ink">#1E1218</color>
+    <color name="ink_muted">#6B6168</color>
+    <color name="card_border">#E8E0D8</color>
+    <color name="sos_red">#D4002B</color>
+    <color name="sos_ring_mid">#F5CBD3</color>
+    <color name="sos_ring_outer">#FBE9EC</color>
+    <color name="sos_dark">#94001F</color>
+    <color name="pink_soft">#F7B6C2</color>
+    <color name="mint">#5EEAB4</color>
+    <color name="mint_ink">#0B3D2E</color>
+    <color name="teal">#00645C</color>
+    <color name="teal_light">#DCEFEA</color>
+    <color name="nav_inactive">#5D545A</color>
+    <color name="map_bg">#E6E2D8</color>
+    <color name="zone_safe">#0E8A5F</color>
+    <color name="zone_moderate">#E3B505</color>
+    <color name="zone_risky">#F0601A</color>
+    <color name="zone_dangerous">#B30F2E</color>
+    <color name="handle">#D8D2CC</color>
+    <color name="call_top">#2A1F2B</color>
+    <color name="call_bottom">#100C10</color>
+    <color name="call_green">#00965E</color>
+    <color name="call_avatar">#D8CDBB</color>
+    <color name="call_avatar_text">#4A3B27</color>
+    <color name="pending_bg">#FFF1D6</color>
+    <color name="pending_text">#8A5A00</color>
+
+
+
+    <color name="gs_bg">#FAF6F0</color>
+    <color name="gs_red">#D4002A</color>
+    <color name="gs_green">#0B6B5C</color>
+    <color name="gs_green_light">#DDEFEA</color>
+    <color name="gs_text">#1A1A1A</color>
+    <color name="gs_hint">#7A7A7A</color>
+    <color name="gs_border">#E6DFD5</color>
+    <color name="gs_card">#FFFFFF</color>
+
+</resources>

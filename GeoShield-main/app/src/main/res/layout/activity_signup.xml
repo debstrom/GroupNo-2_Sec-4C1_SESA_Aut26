@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:background="@color/gs_bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="GeoShield"
+            android:textColor="@color/gs_text"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Create account · অ্যাকাউন্ট খুলুন"
+            android:textColor="@color/gs_hint"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg_chip"
+            android:paddingStart="12dp"
+            android:paddingTop="6dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="6dp"
+            android:text="Your safety, one tap away"
+            android:textColor="@color/gs_green"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+
+        <!-- username -->
+        <TextView
+            style="@style/GsLabel"
+            android:text="Username · নাম" />
+        <EditText
+            android:id="@+id/etUsername"
+            style="@style/GsInput"
+            android:hint="Full name"
+            android:inputType="textPersonName" />
+
+        <!-- email -->
+        <TextView
+            style="@style/GsLabel"
+            android:text="Email · ইমেইল" />
+        <EditText
+            android:id="@+id/etEmail"
+            style="@style/GsInput"
+            android:hint="you@example.com"
+            android:inputType="textEmailAddress" />
+
+        <!-- user_pass -->
+        <TextView
+            style="@style/GsLabel"
+            android:text="Password · পাসওয়ার্ড" />
+        <EditText
+            android:id="@+id/etPass"
+            style="@style/GsInput"
+            android:hint="Minimum 6 characters"
+            android:inputType="textPassword" />
+
+        <!-- user_contact -->
+        <TextView
+            style="@style/GsLabel"
+            android:text="Contact · মোবাইল নম্বর" />
+        <EditText
+            android:id="@+id/etContact"
+            style="@style/GsInput"
+            android:hint="01XXXXXXXXX"
+            android:inputType="phone"
+            android:maxLength="11" />
+
+        <Button
+            android:id="@+id/btnSignup"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/bg_button_red"
+            android:text="Sign Up · সাইন আপ"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:padding="8dp"
+            android:text="Already have an account? Login · লগইন"
+            android:textColor="@color/gs_green"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

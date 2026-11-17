@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main app colors -->
+    <color name="gs_bg">#FAF6F0</color>
+    <color name="gs_red">#D4002A</color>
+    <color name="gs_green">#0B6B5C</color>
+    <color name="gs_green_light">#DDEFEA</color>
+    <color name="gs_text">#1A1A1A</color>
+    <color name="gs_hint">#7A7A7A</color>
+    <color name="gs_border">#E6DFD5</color>
+    <color name="gs_card">#FFFFFF</color>
+
+    <!-- SOS alert screen colors -->
+    <color name="gs_alert_red">#D4002A</color>
+    <color name="gs_alert_dark">#8E0019</color>
+    <color name="gs_white_30">#4DFFFFFF</color>
+    <color name="gs_white_15">#26FFFFFF</color>
+</resources>

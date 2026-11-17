@@ -219,7 +219,12 @@ This is an academic prototype. Known limitations:
 | Mst Mymuna Akter | 04325105101128 |
 | Iffati Rahaman Bhuiyan | 04325105101129 |
 
-**Supervised by:** _Add course teacher's name here_
+**Supervised by:**
+
+| Name | Designation |
+|---|---|
+| Dhrubo Barua | Lecturer |
+| Shad Ahmed | Lecturer |
 
 ---
 
